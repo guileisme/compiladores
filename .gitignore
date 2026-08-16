@@ -1,0 +1,5 @@
+# arquivos gerados pelo flex
+lex.yy.c
+
+# executaveis
+a.out
